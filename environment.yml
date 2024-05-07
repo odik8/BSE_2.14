@@ -12,4 +12,3 @@ dependencies:
       - libclang==18.1.1
       - protobuf==3.19.6
       - tensorflow-io-gcs-filesystem==0.31.0
-prefix: C:\Users\varfe\anaconda3\envs\bse_2.14
